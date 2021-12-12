@@ -1,0 +1,19 @@
+.button{
+    background-color: gray;
+    color : white;
+    margin: 0.5% 1% 0.5% 1%;
+    font-weight: bold;
+    font-size: larger;
+}
+
+.userHandle{
+    font-weight: bold;
+    font-size : larger;
+    margin: 0.5% 1% 0.5% 1%;
+}
+
+.input{
+    height: auto;
+    width : 5cm;
+    font-size: larger;
+}

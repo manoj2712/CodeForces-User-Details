@@ -1,0 +1,11 @@
+.heading{
+    text-align: center;
+    color: red;
+    margin-top: 8%;
+    margin-bottom: 4%;
+    font-size: xx-large;
+}
+.invalid{
+    text-align: center;
+    font-size: larger;
+}
